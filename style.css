@@ -1,0 +1,132 @@
+
+
+
+
+body{
+  margin: 0px;
+
+  font-family: arial,serif;
+  text-align: center;
+
+}
+
+.cloud1{
+
+  position: absolute;
+right:300px;
+top:100px;
+}
+.cloud2{
+  position: absolute;
+  left: 200px;
+
+}
+h1{
+margin: 0px;
+font-family: 'Sacramento', cursive;
+font-size: 70px;
+color: #66BFBF;
+}
+
+h3{
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+h2{
+color: #66BFBF;
+line-height: 2;
+
+}
+span{
+    text-decoration: underline  red;
+
+}
+.bottom-container
+{
+padding: 10px;
+background-color: #11999E;
+margin: 0px;
+margin-top: 50px;
+}
+.skill-row
+{
+  margin:auto;
+    max-width: 50%;
+    margin-bottom: 50px;
+    line-height: 2;
+    text-align: left;
+}
+.ski{
+    color: #11999E;
+    margin-top: 10px;
+
+}
+.images{
+height:150px;
+  border-radius: 50%;
+
+  margin-top: 10px;
+}
+#pro{
+
+margin: 0px;
+  font-size: 1.4em;
+  color: #66BFBF;
+}
+
+.profile
+{
+  margin: 30px;
+  background-color:
+}
+.top{
+padding-top: 180px;
+background-color: #EAF6F6;
+
+}
+.head{
+background-color:#EAF6F6;
+;
+margin: 0px;
+
+}
+#mountain{
+  margin-top: 55px;
+}
+.footer-link{
+
+
+}
+.simg
+{
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+#game{
+  float: right;
+}
+.info{
+  margin: auto;
+  margin-bottom: 40px;
+ text-align: left;
+max-width: 50%
+
+}
+hr{
+   border-top:5px dotted;
+color: grey;
+   width: 5%;
+}
+.btn{
+  background-color: #66BFBF;
+  display: inline;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius:5%;
+}
+.contact-me{
+  margin-bottom: 50px;
+}
